@@ -1,0 +1,4 @@
+build/
+jni4net/
+.idea/
+.gradle/
