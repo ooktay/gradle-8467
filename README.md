@@ -1,5 +1,5 @@
 # gradle-8467
-Example project for https://github.com/gradle/gradle/pull/8467
+Example project for https://github.com/gradle/gradle/issues/3987
 
 On windows:> gradlew clean test
 The test will complete but gradle will not exit until chromedriver.exe process is killed.
